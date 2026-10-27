@@ -1,0 +1,1600 @@
+fileFormatVersion: 2
+guid: 8dda0a62cfc88bc4ca369a863b8574c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1131697763716270428
+    second: SNES - Spider-Man - Enemies & Bosses - Green Goblin_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 461
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6769041e66b40f0800000000000000
+      internalID: -1131697763716270428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 461
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef5dea245bfee42986268c6c742e5f
+      internalID: -1856649799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 460
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf7b6a368076e4cb34444edd698efc
+      internalID: 1319704914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 460
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd182c90d857554daa83ffc72cda3b2
+      internalID: -1660783032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 460
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36205bdcfe01ea49b5a53aa474b2175
+      internalID: -981475237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 460
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9f8df22dd6887458f2d3681757ff7a
+      internalID: 734276934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 455
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd52fe9a0d40e409f7524fc681e5d8
+      internalID: -499280281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 373
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4978ca3ea6560418b215ff7812271a
+      internalID: -1327093262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 373
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f50cbeec3bd1b429c471986002fd90
+      internalID: -1662590899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 373
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2716ad517bbc6d347b10ea9fb06f388e
+      internalID: 475088541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 382
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e532cda32ebabea45a867805bb46569e
+      internalID: 652228998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 370
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562ba0cb60aa0447bd5e23d206b4e9f
+      internalID: -663590082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 365
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d5a8b6e2251b4a8671f258140c299
+      internalID: 540352352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d133f7e0ff8245867e40714a2a3c4
+      internalID: 507587675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 282
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f512aaccf6f5409455918798ec843
+      internalID: 408633951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 282
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d960151598f9847b92aed9a3f4f1b4
+      internalID: 1957328327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 275
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2867603868c99342bd5a4b2140d16ce
+      internalID: -1881102636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 275
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ecc471f2687c84483afe9af89c20b1
+      internalID: -208161817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 275
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d7e81deaca43d49a4edcf2b5113c48
+      internalID: 15870367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 185
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d3a2b665802e14a9392023a63bade6
+      internalID: -1517198685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 185
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4bbbf4e21232d42b61ce341ae442a8
+      internalID: 980002999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 185
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a42e22634b9fb14da1430931dceccb4
+      internalID: 1795445780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 185
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f706c4a6b31f154081d02456464876f
+      internalID: -1304949553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 185
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113d569cc2144a42b3083726da5da61
+      internalID: 598045987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 211
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151286505bf1e124087202efe8cd9f53
+      internalID: 1619142246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 179
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf056efed060b439c1e665116df964
+      internalID: 1404256055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 191
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44825c0239a36544cbaf7ab4250d118d
+      internalID: 2123727881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 106
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5c6b696dd884d48b36e90012e97506
+      internalID: -2105978342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 106
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311f2b3d79410be4f8335272b3247ef1
+      internalID: 1097510552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 106
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f50a4e92a17cd46a9257bd1729c3b6
+      internalID: 1430775313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 112
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d93611fe6152214e8eba6f6714673f3
+      internalID: -857003739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 108
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9713aefb0022e964389b5edd49d5fbee
+      internalID: -265518482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 109
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ec961ccec1b3649856f95c88f36d3f
+      internalID: 808964838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 107
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721e9eab8404cfe478bbee4542d00db0
+      internalID: -1890418828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_35
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 107
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab247b27376cf72428b88dd244630560
+      internalID: 1763529479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_36
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 17
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c39354f2992054bb352c1cc92096fb
+      internalID: -395961003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961ee6a50912e3e42976d023db734267
+      internalID: 147449418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 93
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b432cd9ef128aea48a313f156a09c87b
+      internalID: -1501300738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa8620eb08dcc4a97ecb8b68a19360
+      internalID: 1964531471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 93
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6c2f1ed7c5ee140a0f11002f16dfc1
+      internalID: 1893962457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_41
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a78330beffbd024f83687d26f1759f4
+      internalID: -1283192294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 93
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2606cfa5d404b74f9ac4503945e7be5
+      internalID: -137170415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_43
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 91
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f7dbed4cd32f458ccb8d75cbcc91b
+      internalID: 1755600067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_44
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f1f499b47c634aa24be9179d1c2c3
+      internalID: 685024348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 93
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1a7fdd81bad4c45a701709d95f355a
+      internalID: 1846736041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 93
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1cca3723c59e44e92a23df5446e041
+      internalID: 984111813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 91
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e43dc1cc4e240b4684b21021b6b5f05
+      internalID: -1074770217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d69df0d2cd714b9df52859646ae8b
+      internalID: -1864415958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_49
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be38306d4b6387449b17561d13a95bc3
+      internalID: -580279841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_50
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce425b753fd3cbb498c4052ae313f8ff
+      internalID: 1791962492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_51
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 91
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c5ec39ec970154b9396bdaec38ef02
+      internalID: -902166232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 33
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c7594c5a8947143a705ecbefc14b2e
+      internalID: -943647609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770718ae067481f458043a6025cdd9cb
+      internalID: -255888976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 81
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970633cffe8ee344963e21cecba312c
+      internalID: -1118147643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_55
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 79
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0105ecd6a624140b069d98f49b0832
+      internalID: 207069597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 79
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23324e2ad9338564a9b1bba9c2c8c638
+      internalID: 445284561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 78
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865cc3e28f86b1841a1e2350611d62dc
+      internalID: -1445247605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_58
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e9a8bf707d40146b256c798baa0b7e
+      internalID: -391410014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_59
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 78
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fbe19c108a0bb439a35ebd213f794e
+      internalID: 779439393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_60
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 81
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faab73556352034fb6b916761da9742
+      internalID: 1134217577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_61
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c720d68fea26534fa107fe83f376fb5
+      internalID: -1439970985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 78
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923f7cb58a88434fa2ea38ed8baa413
+      internalID: -525651099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Spider-Man - Enemies & Bosses - Green Goblin_63
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 33
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd5a4647aeced941967b97d4dcf21d5
+      internalID: 431450291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dc0b81116e2ff874381923d52e297e7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_0: -1131697763716270428
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_1: -1856649799
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_10: 652228998
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_11: -663590082
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_12: 540352352
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_13: 507587675
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_14: 408633951
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_15: 1957328327
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_16: -1881102636
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_17: 651622683
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_18: -208161817
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_19: 15870367
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_2: 1319704914
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_20: -1517198685
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_21: 980002999
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_22: 1795445780
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_23: -1304949553
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_24: 598045987
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_25: 1619142246
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_26: 1404256055
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_27: 2123727881
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_28: -2105978342
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_29: 1097510552
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_3: -1660783032
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_30: 1430775313
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_31: -857003739
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_32: -265518482
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_33: 808964838
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_34: -1890418828
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_35: 1763529479
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_36: -395961003
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_37: 147449418
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_38: -1501300738
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_39: 1964531471
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_4: -981475237
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_40: 1893962457
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_41: -1283192294
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_42: -137170415
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_43: 1755600067
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_44: 685024348
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_45: 1846736041
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_46: 984111813
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_47: -1074770217
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_48: -1864415958
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_49: -580279841
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_5: 734276934
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_50: 1791962492
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_51: -902166232
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_52: -943647609
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_53: -255888976
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_54: -1118147643
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_55: 207069597
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_56: 445284561
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_57: -1445247605
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_58: -391410014
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_59: 779439393
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_6: -499280281
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_60: 1134217577
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_61: -1439970985
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_62: -525651099
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_63: 431450291
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_7: -1327093262
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_8: -1662590899
+      SNES - Spider-Man - Enemies & Bosses - Green Goblin_9: 475088541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

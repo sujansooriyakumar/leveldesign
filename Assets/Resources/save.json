@@ -1,0 +1,43 @@
+{
+    "party": [
+        {
+            "characterName": "Sora",
+            "level": 1,
+            "currentHP": 10,
+            "currentMP": 5,
+            "stats": {
+                "maxHP": 10,
+                "maxMP": 5,
+                "str": 5,
+                "def": 5,
+                "mag": 5
+            }
+        },
+        {
+            "characterName": "Donald",
+            "level": 174,
+            "currentHP": 10,
+            "currentMP": 7,
+            "stats": {
+                "maxHP": 10,
+                "maxMP": 7,
+                "str": 3,
+                "def": 4,
+                "mag": 8
+            }
+        },
+        {
+            "characterName": "Goofy",
+            "level": 1,
+            "currentHP": 12,
+            "currentMP": 4,
+            "stats": {
+                "maxHP": 12,
+                "maxMP": 4,
+                "str": 5,
+                "def": 976,
+                "mag": 3
+            }
+        }
+    ]
+}
